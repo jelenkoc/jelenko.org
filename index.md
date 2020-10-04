@@ -1,5 +1,3 @@
-![Logo](/jelenko.org.logo.png)
-
 Experienced Senior Instrumentation Engineer with a demonstrated history of working in the process industry and construction business. 
 
 [Linkedin](https://www.linkedin.com/in/jelenko-crnjak-00602720/)
