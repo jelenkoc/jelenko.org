@@ -2,3 +2,5 @@ theme: jekyll-theme-leap-day
 title:
 show_downloads: false
 logo: /jelenko.org.logo.png
+github:
+  is_project_page: false
