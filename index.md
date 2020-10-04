@@ -4,7 +4,7 @@ Experienced Senior Instrumentation Engineer with a demonstrated history of worki
 
 [Linkedin](https://www.linkedin.com/in/jelenko-crnjak-00602720/)
 
-Consulting services:
+## Consulting services
 
 *	Instrumentation and Control design for process industry and building services
 *	Fire alarm and Gas detection systems
@@ -16,7 +16,7 @@ Consulting services:
 * Software and algorithm development
 * Web development
 
-Personal references:
+## Personal references
 
 *	Pliva Croatia Ltd. (member of TEVA Group)
 *	TEVA Polska
