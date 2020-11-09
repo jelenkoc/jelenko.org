@@ -62,11 +62,15 @@ Experienced Senior Instrumentation Engineer with a demonstrated history of worki
 
 Jelenko, obrt za poslovne usluge
 
-*address:* Gorjanovićeva 15, 10000 Zagreb, Croatia
-*mob:* <a href="tel:+385912468692">+385(0)91 2468 692</a>
-*email:* <a href="mailto:jelenko@jelenko.org">jelenko@jelenko.org</a>, <a href="mailto:jelenko.crnjak@gmail.com">jelenko.crnjak@gmail.com</a>
-OIB: 48928589725
-*Accounts:*
+**address:** Gorjanovićeva 15, 10000 Zagreb, Croatia
+
+**mob:** <a href="tel:+385912468692">+385(0)91 2468 692</a>
+
+**email:** <a href="mailto:jelenko@jelenko.org">jelenko@jelenko.org</a>, <a href="mailto:jelenko.crnjak@gmail.com">jelenko.crnjak@gmail.com</a>
+
+**OIB:** 48928589725
+
+**Accounts:**
 
 *	8310698410, Bank code (SWIFT / BIC) CMFGUS33, Wire transfer number 026073008, TransferWise, Routing number 026073150, 19 W 24th Street, New York 10010, United States of America
 *	IBAN HR5023600001102866093, Zagrebačka banka, Trg bana Josipa Jelačića 10, 10000 Zagreb
